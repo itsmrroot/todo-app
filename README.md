@@ -1,5 +1,7 @@
 # Todo App
 
+**Live Demo:** <!-- add your GitHub Pages URL here, e.g. https://itsmrroot.github.io/todo-app -->
+
 A clean, minimal todo app built with vanilla HTML, CSS, and JavaScript. No frameworks, no dependencies.
 
 ## Features
