@@ -1,6 +1,6 @@
 # Todo App
 
-**Live Demo:** (https://itsmrroot.github.io/todo-app/)
+[![Open Live Demo](https://img.shields.io/badge/Open%20Live%20Demo-itsmrroot.github.io/SubnetMaster-blue?style=for-the-badge&logo=github)](https://itsmrroot.github.io/todo-app/)
 A clean, minimal todo app built with vanilla HTML, CSS, and JavaScript. No frameworks, no dependencies.
 
 ## Features
